@@ -48,7 +48,7 @@
   margin-top: 10px;
   margin-bottom: 10px;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   background-color:  #fff
 }
 
@@ -82,7 +82,8 @@
 }
 
 .head8 {
-  margin-left: 400px;
+  float: right ;
+  margin-right: 100px;
 }
 
 .head9 {
@@ -118,7 +119,23 @@
   border: none;
   font-weight: 800;
   color: #fff;
+}
 
+.head11{
+  margin: 20px;
+  padding-top: 10px;
+  background-color: #f9fafb;
+}
+
+.head12{
+  float: right;
+  margin-right: 80px;
+  /* font-size: larger; */
+  color: #3c4d6b;
+  font-weight: 500;
+  font-family: 'Oswald', sans-serif;
+  font-size: 22px;
+  line-height: 32px;
 }
 
 .App-link {
