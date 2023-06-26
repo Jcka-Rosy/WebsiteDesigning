@@ -25,6 +25,9 @@ function App() {
         Dedicated Workforce And Delivery Time. Intime & Anytime Service Support.
         </div>
         </div>
+        <div>
+          <img src="https://www.maxcoolcare.in/images/business-slider-01.jpg" className='image1'></img>
+        </div>
       </header>
     </div>
   );

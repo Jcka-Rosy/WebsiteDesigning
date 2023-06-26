@@ -82,8 +82,8 @@
 }
 
 .head8 {
-  float: right ;
-  margin-right: 100px;
+  /* float: right ; */
+  margin-left: 389px;
 }
 
 .head9 {
@@ -136,6 +136,17 @@
   font-family: 'Oswald', sans-serif;
   font-size: 22px;
   line-height: 32px;
+}
+
+.image1{
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  border: none;
+  line-height: normal;
+  vertical-align: middle;
 }
 
 .App-link {
