@@ -20,6 +20,11 @@ function App() {
           </div>
           <div className='head10'>GET A FREE ESTIMATE</div>
         </div>
+        <div className= 'head11'>
+        <div className= 'head12'>
+        Dedicated Workforce And Delivery Time. Intime & Anytime Service Support.
+        </div>
+        </div>
       </header>
     </div>
   );
